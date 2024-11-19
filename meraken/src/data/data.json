@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 699,
+      "description": "A high-end smartphone with excellent features.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 1200,
+      "description": "A powerful laptop for all your needs.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Novel",
+      "category": "Books",
+      "price": 20,
+      "description": "A thrilling mystery novel.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  

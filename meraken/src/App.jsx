@@ -1,13 +1,18 @@
-import './App.css'
+import React from "react";
+import { BrowserRouter as Router } from "react-router-dom";
+import AppRoutes from "./routes/AppRoutes";
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
   return (
-    <>
-    <div>Hello</div>
-    </>
-  )
-}
+    <Router>
+      <header>
+        <h1>Product Catalog</h1>
+      </header>
+      <main>
+        <AppRoutes />
+      </main>
+    </Router>
+  );
+};
 
-export default App
+export default App;
