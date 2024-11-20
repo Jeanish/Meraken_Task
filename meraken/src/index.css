@@ -12,10 +12,15 @@ header {
   text-align: center;
 }
 
+.search-box{
+  padding: 10px;
+}
+
 .filter-bar {
   display: flex;
-  justify-content: space-between;
-  padding: 10px;
+  gap: 5px;
+  justify-content: center;
+  padding: 20px;
 }
 
 .product-grid {
@@ -34,4 +39,8 @@ header {
 .product-card img {
   max-width: 100%;
   height: auto;
+}
+
+.product-detail{
+  text-align: center;
 }

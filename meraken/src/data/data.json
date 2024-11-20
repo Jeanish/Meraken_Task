@@ -1,11 +1,11 @@
 [
     {
       "id": 1,
-      "name": "Smartphone",
+      "name": "Samsung S12",
       "category": "Electronics",
       "price": 699,
       "description": "A high-end smartphone with excellent features.",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShU2Eaqn9jbOUnAZjMdsv_Va_XEXJWOg-xCg&s"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "category": "Electronics",
       "price": 1200,
       "description": "A powerful laptop for all your needs.",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://www.shutterstock.com/image-vector/laptop-modern-art-design-open-260nw-2233741305.jpg"
     },
     {
       "id": 3,
@@ -21,7 +21,111 @@
       "category": "Books",
       "price": 20,
       "description": "A thrilling mystery novel.",
-      "image": "https://via.placeholder.com/150"
-    }
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6-h92mKBmzAc7tGhPR_XcbcFtosekkKIFQ&s"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 13",
+      "category": "Electronics",
+      "price": 1000,
+      "description": "A smartphone with excellent features.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80ix5lTqgrMFmcB_7YCuwP8wfFQhnH6gI-Q&s"
+    },
+    {
+        "id": 5,
+        "name": "Wireless Headphones",
+        "price": 99.99,
+        "category": "Electronics",
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3DK6uL5CJ4FkGmr9hf1BRO3sNMQeVBP3NhQ&s"
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Speaker",
+        "price": 49.99,
+        "category": "Electronics",
+        "description": "Compact Bluetooth speaker with powerful sound.",
+        "image": "https://thumbs.dreamstime.com/z/mini-bluetooth-speaker-isolated-white-background-mini-bluetooth-speaker-isolated-white-background-digital-sound-over-137260214.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Smartphone",
+        "price": 799.99,
+        "category": "Electronics",
+        "description": "Latest smartphone with cutting-edge features.",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+        "id": 8,
+        "name": "Leather Backpack",
+        "price": 129.99,
+        "category": "Accessories",
+        "description": "Stylish leather backpack for daily use.",
+        "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    },
+    {
+        "id": 9,
+        "name": "Running Shoes",
+        "price": 59.99,
+        "category": "Footwear",
+        "description": "Lightweight running shoes with excellent grip.",
+        "image": "https://img.freepik.com/premium-photo/running-shoes-white-background_10541-635.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Fitness Watch",
+        "price": 199.99,
+        "category": "Electronics",
+        "description": "Track your fitness goals with this smart watch.",
+        "image": "https://png.pngtree.com/png-vector/20240716/ourlarge/pngtree-vital-smart-watch-and-fitness-tracker-png-image_13125164.png"
+    },
+    {
+        "id": 11,
+        "name": "Sunglasses",
+        "price": 39.99,
+        "category": "Accessories",
+        "description": "Polarized sunglasses with UV protection.",
+        "image": "https://img.freepik.com/premium-vector/3d-realistic-sunglasses-isolated-white-background-sunglasses-vector_618941-50.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Notebook",
+        "price": 9.99,
+        "category": "Stationery",
+        "description": "Premium quality notebook for writing or sketching.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sAc3Z1nFKdKIk4TE-RwsCnGz61h439OrqA&s"
+    },
+    {
+        "id": 13,
+        "name": "Coffee Mug",
+        "price": 14.99,
+        "category": "Kitchenware",
+        "description": "Durable ceramic mug for coffee lovers.",
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+    },
+    {
+        "id": 14,
+        "name": "Travel Suitcase",
+        "price": 249.99,
+        "category": "Travel",
+        "description": "Lightweight and durable suitcase for travelers.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCtbQGwh4TsqPBmOkjOYDNcdMPSc9sfsFgg&s"
+    },
+    {
+        "id": 15,
+        "name": "Wrist Watch",
+        "price": 99.99,
+        "category": "Accessories",
+        "description": "Elegant wrist watch with leather straps.",
+        "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3"
+    },
+    {
+        "id": 16,
+        "name": "Gaming Chair",
+        "price": 349.99,
+        "category": "Furniture",
+        "description": "Ergonomic chair designed for gamers.",
+        "image": "https://thumbs.dreamstime.com/b/modern-comfortable-gaming-chair-modern-comfortable-gaming-chair-isolated-white-background-159744033.jpg"
+    } 
   ]
   
